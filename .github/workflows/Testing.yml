@@ -24,4 +24,4 @@ jobs:
 
       - name: Run Tests
         run: |
-          pytest src/test_flask_app.py
+          pytest src/tests_flask_app.py
